@@ -94,6 +94,7 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 * What are `undefined` and `undeclared` variables? 
 * What is a closure, and how/why would you use one? 
 	* Your favorite pattern used to create them? argyle (Only applicable to IIFEs)  
+	* http://davidbcalhoun.com/2011/what-is-a-closure-in-javascript
 * What's a typical use case for anonymous functions? 
 * Explain the "JavaScript module pattern" and when you'd use it. 
 	* Bonus points for mentioning clean namespacing. 
