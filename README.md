@@ -50,6 +50,7 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 	* `issue :retab! command`
 * Write a simple slideshow page 
 	* Bonus points if it does not use JS.  
+	* http://coding.smashingmagazine.com/2012/04/25/pure-css3-cycling-slideshow/
 * What tools do you use to test your code's performance?
 	* JSPerf (http://jsperf.com/)
 	* Dromaeo (http://dromaeo.com/) 
