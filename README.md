@@ -63,7 +63,10 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 ### HTML-Specific Questions:
 
 * What's a `doctype` do, and how many can you name? 
+	* http://en.wikipedia.org/wiki/Document_Type_Declaration
+	* http://www.doubleservice.com/2011/01/html-design-lesson1-doctype/
 * What's the difference between standards mode and quirks mode? 
+	* https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode
 * What are the limitations when serving XHTML pages? 
 	* Are there any problems with serving pages as `application/xhtml+xml`?  
 * How do you serve a page with content in multiple languages? 
@@ -74,6 +77,8 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 * What are the content models in HTML4 and are they different in HTML5? 
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5? 
 * Describe the difference between cookies, sessionStorage and localStorage. 
+	* http://www.w3schools.com/html/html5_webstorage.asp 
+	* http://www.w3schools.com/js/js_cookies.asp
 
 ### JS-Specific Questions
 
