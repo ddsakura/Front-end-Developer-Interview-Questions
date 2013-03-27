@@ -57,7 +57,7 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 * If you could master one technology this year, what would it be? 
 * Explain the importance of standards and standards bodies.
 * What is FOUC? How do you avoid FOUC?  
-	* http://en.wikipedia.org/wiki/Flash_of_unstyled_content
+	* http://en.wikipedia.org/wiki/Flash_of_unstyled_content (Flash of unstyled content)
 
 ### HTML-Specific Questions:
 
