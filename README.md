@@ -83,6 +83,7 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 ### JS-Specific Questions
 
 * Explain event delegation
+	* http://davidwalsh.name/event-delegate 
 * Explain how `this` works in JavaScript
 * Explain how prototypal inheritance works
 * How do you go about testing your JavaScript?
