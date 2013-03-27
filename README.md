@@ -81,7 +81,7 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 	* http://www.w3schools.com/js/js_cookies.asp
 
 ### JS-Specific Questions
-
+* http://www.techrepublic.com/blog/programming-and-development/javascript-interview-questions-and-answers/6016
 * Explain event delegation
 	* http://davidwalsh.name/event-delegate 
 * Explain how `this` works in JavaScript
