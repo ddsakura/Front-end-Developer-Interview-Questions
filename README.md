@@ -200,6 +200,7 @@ $(".foo div#bar:eq(0)")
 ### CSS-Specific Questions:
 
 * Describe what a "reset" CSS file does and how it's useful. 
+	* http://yuilibrary.com/yui/docs/cssreset/
 * Describe Floats and how they work. 
 * What are the various clearing techniques and which is appropriate for what context? 
 * Explain CSS sprites, and how you would implement them on a page or site. 
